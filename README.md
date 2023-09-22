@@ -2,7 +2,9 @@
 
 <div id="header" align="center"> 
 
-# Sensor de temperatura analógico: Termistor NTC 
+<h1> Sensor de temperatura analógico:</h1>
+
+Termistor NTC 
 
 ## (coeficiente de temperatura negativo).
 
