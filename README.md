@@ -1,15 +1,11 @@
 > Exposición de sensores
-
 <div id="header" align="center"> 
-
 <h1> Sensor de temperatura analógico:</h1>
+<h3>Termistor NTC (coeficiente de temperatura negativo). </h3>
 
-Termistor NTC 
 
-## (coeficiente de temperatura negativo).
 
 <br><br><img src= "https://github.com/KarimeIsabel/SistemasProgramables/assets/60378108/1d75c0d4-a003-4e74-aaf0-fb388539ab8e"> 
-
 <div/>
   
 # Nombre de los pines
