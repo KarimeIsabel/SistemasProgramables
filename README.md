@@ -2,7 +2,7 @@
 
 <div id="header" align="center"> 
 
-***Sensor de temperatura analógico:***
+**Sensor de temperatura analógico:**
 
 _Termistor NTC_ <sub> (coeficiente de temperatura negativo).<sub/>
 
