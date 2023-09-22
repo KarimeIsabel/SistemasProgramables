@@ -1,4 +1,3 @@
-# Sistemas Programables
 > Exposición de sensores
 
 <div id="header" align="center"> 
