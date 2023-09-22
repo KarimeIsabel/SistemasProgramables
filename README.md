@@ -1,21 +1,35 @@
-> Hola
-> Exposición de sensores
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Mi Página Web</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Acerca de</a></li>
+            <li><a href="#">Servicios</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Sección 1</h2>
+            <p>Este es el contenido de la sección 1.</p>
+        </section>
+        <section>
+            <h2>Sección 2</h2>
+            <p>Este es el contenido de la sección 2.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Derechos de autor &copy; 2023 Mi Página Web</p>
+    </footer>
+</body>
+</html>
 
-<div id="header" align="center"> 
-
-***Sensor de temperatura analógico:***
-
-_Termistor NTC_ <sub> (coeficiente de temperatura negativo). <sub/>
-
-![image](https://github.com/KarimeIsabel/SistemasProgramables/assets/60378108/1d75c0d4-a003-4e74-aaf0-fb388539ab8e)
-<div/>
-  
-
-# Leer la Temperatura
-```
-const float BETA = 3950; // should match the Beta Coefficient of the thermistor
-int analogValue = analogRead(A0);
-float celsius = 1 / (log(1 / (1023. / analogValue - 1)) / BETA + 1.0 / 298.15) - 273.15;
-```
-Ejemplo de simulación
-https://wokwi.com/projects/299330254810382858
