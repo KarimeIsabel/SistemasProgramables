@@ -11,10 +11,13 @@
 # Nombre de los pines
 
 | Nombre |         Descripccion        |
-|--------|-----------------------------|
++--------+-----------------------------+
 |   VCC  |    Alimentación positiva    |
++--------+-----------------------------+
 |   OUT  | Señal de salida (analógica) |
++--------+-----------------------------+
 |   GND  |            Tierra           |
++--------+-----------------------------+
 
 # Atributos
 |    Nombre   |           Descripccion           | Valor por defecto |
