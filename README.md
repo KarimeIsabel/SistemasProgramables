@@ -3,27 +3,18 @@
 <h1> Sensor de temperatura analógico:</h1>
 <h3>Termistor NTC (coeficiente de temperatura negativo). </h3>
 
-
+Un termistor NTC (coeficiente de temperatura negativo) es un tipo de sensor de temperatura que utiliza un material semiconductor cuya resistencia eléctrica disminuye a medida que aumenta la temperatura. 
 
 <br><br><img src= "https://github.com/KarimeIsabel/SistemasProgramables/assets/60378108/1d75c0d4-a003-4e74-aaf0-fb388539ab8e"> 
 <div/>
   
 # Nombre de los pines
+<br><br><img src= "https://github.com/KarimeIsabel/SistemasProgramables/assets/60378108/02539091-3942-48cb-bc80-c5ea3e1c6216">
 
-| Nombre |         Descripccion        |
-+--------+-----------------------------+
-|   VCC  |    Alimentación positiva    |
-+--------+-----------------------------+
-|   OUT  | Señal de salida (analógica) |
-+--------+-----------------------------+
-|   GND  |            Tierra           |
-+--------+-----------------------------+
 
 # Atributos
-|    Nombre   |           Descripccion           | Valor por defecto |
-|-------------|----------------------------------|-------------------|
-| Temperatura |   Valore de temperatura inicial  | ¨24¨              |
-|     Beta    | El coeficiente beta del termisor | ¨3950¨            |
+<br><br><img src= "https://github.com/KarimeIsabel/SistemasProgramables/assets/60378108/4e0024b8-2008-4a95-819c-93f44f181c10">
+
 
 # Leer la Temperatura
 
