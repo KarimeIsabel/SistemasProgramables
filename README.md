@@ -23,4 +23,4 @@ Un termistor NTC (coeficiente de temperatura negativo) es un tipo de sensor de t
 
 <h3> Ejemplo de simulación </h3>
 
-https://wokwi.com/projects/299330254810382858
+ https://wokwi.com/projects/299330254810382858 <link rel="stylesheet">
